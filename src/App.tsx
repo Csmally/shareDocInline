@@ -1,10 +1,7 @@
-import { useEffect } from "react";
+import Editor from "./components/Editor";
 
 function App() {
-  useEffect(() => {
-    console.log("22");
-  }, []);
-  return <div>ddd</div>;
+  return <Editor />;
 }
 
 export default App;
