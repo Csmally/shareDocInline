@@ -1,4 +1,4 @@
-import { parseHtml } from "../utils/parseHtml";
+import { parseHtml } from "@/utils/parseHtml";
 
 const jsonData = {
   type: "doc",
