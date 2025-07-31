@@ -1,7 +1,7 @@
-import Editor from "@/components/Editor";
+import AdvanceEditor from "@/components/AdvanceEditor";
 
 function App() {
-  return <Editor />;
+  return <AdvanceEditor />;
 }
 
 export default App;
